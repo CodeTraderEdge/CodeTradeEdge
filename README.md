@@ -13,7 +13,7 @@
   <a href="mailto:tomax.coeli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tcoeli&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=CodeTraderEdge&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 ---
